@@ -1,0 +1,2 @@
+{"messages":[{"role":"user","content":"What is 2 + 2?"},{"role":"assistant","content":"4"}]}
+{"messages":[{"role":"system","content":"Be brief."},{"role":"user","content":"Capital of Nigeria?"},{"role":"assistant","content":"Abuja"}]}

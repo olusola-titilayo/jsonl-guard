@@ -1,0 +1,6 @@
+{"messages":[{"role":"user","content":"What is 2 + 2?"},{"role":"assistant","content":"4"}]}
+{"messages":[{"role":"user","content":"unterminated
+{"messages":[{"role":"user","content":"Nothing to learn here"}]}
+{"messages":[{"role":"user","content":"First"},{"role":"user","content":"Second"},{"role":"assistant","content":"Reply"}]}
+{"messages":[{"role":"user","content":"Hi"},{"role":"assistant","content":"   "}]}
+{"messages":[{"content":" What is 2 + 2? ","role":"user"},{"role":"assistant","content":"4"}]}

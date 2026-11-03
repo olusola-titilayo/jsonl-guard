@@ -1,0 +1,9 @@
+[package]
+name = "jsonl-guard"
+version = "0.1.0"
+edition = "2021"
+description = "Find the problems in an LLM training dataset before they reach a fine-tuning job."
+license = "MIT"
+
+[dependencies]
+serde_json = "1"
